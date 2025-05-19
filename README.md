@@ -2,7 +2,7 @@
 
 # Consulting-Project
 
-This repository comprises two categories: selected statistical consulting reports and research deliverables. Each report addresses a biomedical or clinical question using sound statistical methodology and clear communication for non-technical audiences. The consulting reports often include coding snippets and practical guides for physicians. The research section features undergraduate projects—where I independently led the design, analysis, and interpretation—and my recently completed Master’s project (3-credit), which is undergoing final refinements based on supervisor feedback prior to publication.
+This repository comprises two categories: selected statistical consulting reports and research deliverables. Each report addresses a biomedical or clinical question using sound statistical methodology and clear communication for non-technical audiences. The consulting reports often include coding snippets and practical guides for physicians. The research section features undergraduate projects - where I independently led the design, analysis, and interpretation—and my recently completed Master’s project (3-credit), which is undergoing final refinements based on supervisor feedback prior to publication.
 
 ---
 
@@ -26,8 +26,8 @@ The `Consulting` folder contains reports from real or simulated statistical cons
 | `Bumble_Bee.pdf`             | A statistical evaluation of ecological data from bumble bee field studies. |
 | `CVTStroke.pdf`              | An initial analysis of cerebral venous thrombosis data. |
 | `CVTStrokeFinal.pdf`         | Final consulting report with conclusions and modeling revisions. |
-| `PCP-Specialists.pdf`        | Statistical summary comparing primary care physicians vs specialists. |
-| `SexualDysfunction.pdf`      | Clinical data exploration related to sexual dysfunction cases. |
+| `PCP-Specialists.pdf`        | Statistical summary comparing agreement between Unified Airway Disease (UAD) patients'referral by Primary Care Physicians vs Specialists (i.e. Allergists, Pulmonologists, and Otolaryngologists) .|
+| `SexualDysfunction.pdf`      | Clinical data exploration related to Predictors of Sexual Dysfunction among Breast Cancer Survivors. |
 
 ---
 
