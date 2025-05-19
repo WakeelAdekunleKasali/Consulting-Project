@@ -2,7 +2,7 @@
 
 # Consulting-Project
 
-This repository contains a collection of statistical consulting deliverables and reports compiled during my applied consulting sessions and client engagements. Each project addresses a specific biomedical or clinical question using sound statistical methodology and clear reporting for non-technical audiences.
+This repository comprises two categories: selected statistical consulting reports and research deliverables. Each report addresses a biomedical or clinical question using sound statistical methodology and clear communication for non-technical audiences. The consulting reports often include coding snippets and practical guides for physicians. The research section features undergraduate projects—where I independently led the design, analysis, and interpretation—and my recently completed Master’s project (3-credit), which is undergoing final refinements based on supervisor feedback prior to publication.
 
 ---
 
