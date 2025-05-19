@@ -29,30 +29,19 @@ The `Consulting` folder contains reports from real or simulated statistical cons
 
 ---
 
-## 🔧 How to Use This Repository
+# 📁 Project Folder Overview
 
-You may explore the individual reports under the `Consulting` directory. If you're interested in the methodology, feel free to reach out for the accompanying code, where applicable.
+This `Project` folder contains research deliverables from both my undergraduate and master’s studies.  
+Each project demonstrates full responsibility over study design, statistical analysis, interpretation, and reporting.
 
-This repository is intended for:
-- Demonstrating professional consulting deliverables.
-- Serving as a reference for report structure, formatting, and language.
-- Highlighting statistical problem-solving across multiple domains.
+The Master's project was recently completed and is currently undergoing final edits based on supervisor feedback.  
+Several projects also include reproducible code and Quarto files to ensure transparency.
 
----
-
-## 📎 Citation / Acknowledgment
-
-Please do not use any part of these reports for publication without permission. For academic or consulting references, please credit:
-
-**Wakeel Adekunle Kasali**  
-Statistical Consultant & Data Scientist  
-[GitHub Profile](https://github.com/WakeelAdekunleKasali)
-
----
-
-## 📬 Contact
-
-For inquiries, collaboration, or requests for code/analysis:
-**Email:** wakeelkasali@gmail.com  
-**LinkedIn:** [LinkedIn Profile](#) *(insert your profile link if desired)*
-
+| **File**                   | **Description**                                                                 |
+|----------------------------|---------------------------------------------------------------------------------|
+| `MastersProject.pdf`       | Final report for my Master's research project (3-credit). Currently under minor revisions before publication. |
+| `MastersProject.qmd`       | Quarto source file supporting the Master's project, written in a reproducible and transparent format. |
+| `ASDProject.md`            | Summary report of an independent research study on Autism Spectrum Disorder (ASD). |
+| `ASDProjectCode.r`         | R script with code for analysis and visualization used in the ASD project.      |
+| `UndergradProject.pdf`     | Undergraduate research project where I independently led the design, statistical analysis, and final report. |
+| `UndergradProject1.pdf`    | Additional undergraduate project applying applied statistical techniques to a public health topic. |
