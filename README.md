@@ -45,3 +45,9 @@ Several projects also include reproducible code and Quarto files to ensure trans
 | `ASDProjectCode.r`         | R script code - for Excitatory/inhibitory (E/I) balance within each sample - for analysis and visualization used in the ASD project.      |
 | `UndergradProject.pdf`     | Last Undergraduate research project where I independently led the design, statistical analysis, and final report. |
 | `UndergradProject1.pdf`    | First undergraduate project applying applied statistical techniques to a public health topic. |
+
+---
+
+## 📎 Acknowledgment
+
+Please do not use any part of these reports for publication without permission.
