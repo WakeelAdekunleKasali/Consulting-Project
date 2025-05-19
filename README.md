@@ -11,7 +11,7 @@ This repository comprises two categories: selected statistical consulting report
 
 ---
 
-## 📊 Consulting Folder Overview
+## 📊 CONSULTING FOLDER OVERVIEW
 
 The `Consulting` folder contains reports from real or simulated statistical consulting sessions, showcasing a variety of statistical analyses and reporting styles for diverse domains.
 
@@ -29,7 +29,7 @@ The `Consulting` folder contains reports from real or simulated statistical cons
 
 ---
 
-# 📁 Project Folder Overview
+# 📊 PROJECT FOLDER OVERVIEW
 
 This `Project` folder contains research deliverables from both my undergraduate and master’s studies.  
 Each project demonstrates full responsibility over study design, statistical analysis, interpretation, and reporting.
@@ -42,6 +42,6 @@ Several projects also include reproducible code and Quarto files to ensure trans
 | `MastersProject.pdf`       | Final report for my Master's research project (3-credit). Currently under minor revisions before publication. |
 | `MastersProject.qmd`       | Quarto source file supporting the Master's project, written in a reproducible and transparent format. |
 | `ASDProject.md`            | Summary report of an independent research study on Autism Spectrum Disorder (ASD). |
-| `ASDProjectCode.r`         | R script with code for analysis and visualization used in the ASD project.      |
-| `UndergradProject.pdf`     | Undergraduate research project where I independently led the design, statistical analysis, and final report. |
-| `UndergradProject1.pdf`    | Additional undergraduate project applying applied statistical techniques to a public health topic. |
+| `ASDProjectCode.r`         | R script code - for Excitatory/inhibitory (E/I) balance within each sample - for analysis and visualization used in the ASD project.      |
+| `UndergradProject.pdf`     | Last Undergraduate research project where I independently led the design, statistical analysis, and final report. |
+| `UndergradProject1.pdf`    | First undergraduate project applying applied statistical techniques to a public health topic. |
